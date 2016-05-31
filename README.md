@@ -5,6 +5,7 @@ Golang augmented tree realisation for interfaces types.
 import (
     "github.com/Kerah/goaugmented"
     "github.com/Kerah/goaugmented/augmented"
+    "fmt"
 )
 
 func main(){
